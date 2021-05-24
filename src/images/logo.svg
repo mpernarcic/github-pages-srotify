@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2c9e1c;
+        opacity: 0.5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #08f;
+      }
+
+      .cls-2 {
+        opacity: 0.82;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #1c9e75;
+      }
+
+      .cls-3 {
+        opacity: 0.8;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill-opacity: 0.5;
+      }
+
+      .cls-6 {
+        fill: #5fb839;
+      }
+    </style>
+  </defs>
+  <path id="Polygon_1_copy_5" data-name="Polygon 1 copy 5" class="cls-1" d="M654.764,500.526L551.778,679.056H345.806L242.82,500.526,345.806,322H551.778Z"/>
+  <path id="Polygon_1_copy" data-name="Polygon 1 copy" class="cls-2" d="M448.954,500.005L345.968,678.535H140L37.011,500.005,140,321.475H345.968Z"/>
+  <path id="Polygon_1_copy_2" data-name="Polygon 1 copy 2" class="cls-3" d="M861.1,500.005L758.118,678.535H552.146L449.16,500.005l102.986-178.53H758.118Z"/>
+  <path id="Polygon_1_copy_3" data-name="Polygon 1 copy 3" class="cls-4" d="M757.384,678.483L654.4,857.014H448.426L345.44,678.483l102.986-178.53H654.4Z"/>
+  <path id="Polygon_1_copy_4" data-name="Polygon 1 copy 4" class="cls-5" d="M963,678.483L860.018,857.014H654.046L551.06,678.483l102.986-178.53H860.018Z"/>
+  <path id="Polygon_1" data-name="Polygon 1" class="cls-6" d="M551.764,321.526L448.778,500.056H242.806L139.82,321.526,242.806,143H448.778Z"/>
+</svg>
