@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-pages-srotify/static/css/main.e5a1a3ab.chunk.css",
-    "main.js": "/github-pages-srotify/static/js/main.ec89f397.chunk.js",
-    "main.js.map": "/github-pages-srotify/static/js/main.ec89f397.chunk.js.map",
+    "main.js": "/github-pages-srotify/static/js/main.8d41e659.chunk.js",
+    "main.js.map": "/github-pages-srotify/static/js/main.8d41e659.chunk.js.map",
     "runtime-main.js": "/github-pages-srotify/static/js/runtime-main.b37f7f7f.js",
     "runtime-main.js.map": "/github-pages-srotify/static/js/runtime-main.b37f7f7f.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/github-pages-srotify/static/css/2.7fc9bc2b.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.bb5fa59d.chunk.js",
     "static/css/main.e5a1a3ab.chunk.css",
-    "static/js/main.ec89f397.chunk.js"
+    "static/js/main.8d41e659.chunk.js"
   ]
 }
